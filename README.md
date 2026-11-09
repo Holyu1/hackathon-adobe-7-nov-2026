@@ -1,4 +1,4 @@
-# PreLaunch – simulator de reacții la reclame (publicul din România)
+# PreLaunch – simulator de reacții la reclame creat pentru publicul din România
 
 Frontend React + Vite + Tailwind, backend Express, AI: Google Gemini. Cheile API stau doar în `.env`, pe server.
 
